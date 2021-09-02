@@ -6,4 +6,4 @@ https://github.com/NVIDIA-AI-IOT/jetbot/wiki/examples
 <Installation>
 1.Download collision avoidance example from NVIDIA-AI-IOT jetbot wiki
 2.Data collection and training function is utilized original source files.
-3.When you create the pth file, you can execute them.
+3.When you create the pth file, you can execute them. 
