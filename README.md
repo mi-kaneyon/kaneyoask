@@ -2,6 +2,10 @@
 It's my first program by python. But modified from JetBot Reference "Object Avoidance".
 Regarding the collecting, training sources, please refer to the JotBot Project
 https://github.com/NVIDIA-AI-IOT/jetbot/wiki/examples
+<Files>
+・Prepared Resnet18 and TensorRT applicable files.
+ You can use by your target.
+
 
 <Installation>
 1.Download collision avoidance example from NVIDIA-AI-IOT jetbot wiki
