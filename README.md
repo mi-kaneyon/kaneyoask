@@ -17,3 +17,6 @@ https://github.com/NVIDIA-AI-IOT/jetbot/wiki/examples
 4.You can execute downloaded practice Object Avoidance practice.
   
 5.JetBot avoid object for each 30sec right or left turn.
+
+### Jetbot 練習用Juypter Notebookファイル
+- サブディレクトリのファイルをご利用ください。
